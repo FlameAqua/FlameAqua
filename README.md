@@ -21,7 +21,7 @@ Check out <a href="https://adrianszydlo.ie">my website</a>!
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=electron,react,vite,tailwind,django,flask,bootstrap,vercel" />
+    <img src="https://skillicons.dev/icons?i=electron,react,vite,tailwind,bootstrap,django,flask,nodejs,nextjs" />
   </a>
 </p>
 
@@ -29,6 +29,6 @@ Check out <a href="https://adrianszydlo.ie">my website</a>!
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,linux,mint,docker,raspberrypi,nodejs,nextjs,vscode,pycharm,cloudflare,vitest,jenkins,discord,npm,pnpm" />
+    <img src="https://skillicons.dev/icons?i=git,linux,mint,docker,raspberrypi,vscode,pycharm,vercel,cloudflare,vitest,jenkins,discord,npm,pnpm" />
   </a>
 </p>
