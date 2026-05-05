@@ -1,16 +1,19 @@
 ## Welcome
 
-Hi there! My name is Adrian Szydlo (Aqua) and I am a computer science student who is passionate about all things coding and technology!
+Hi there! I'm Adrian Szydlo (aka Aqua) and I am a final year Computer Science student. I love all matters of programming and problem solving with a particular interest in backends, infrastructure & SRE! 
 
 ## Experience
 - Software Development Engineer Intern @ <a href="https://kpmg.com/ie">KPMG Ireland</a>
-- Computer Science @ <a href="https://dcu.ie">DCU</a> - Dublin City University
+- Remote Support Technician @ <a href="https://onecontact.ie">One Contact Dataflow Ltd.</a> 
+- BSc. Computer Science @ <a href="https://dcu.ie">Dublin City University</a>
+
+Check out <a href="https://adrianszydlo.ie">my website</a>!
 
 ## Programming & Markup Languages
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,c,html,css,js,ts,kotlin,md,postgres,mysql,bash" />
+    <img src="https://skillicons.dev/icons?i=py,java,c,cs,html,css,js,ts,postgres,mysql,bash" />
   </a>
 </p>
 
@@ -18,7 +21,7 @@ Hi there! My name is Adrian Szydlo (Aqua) and I am a computer science student wh
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=electron,react,vite,tailwind,django,flask,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=electron,react,vite,tailwind,django,flask,bootstrap,vercel" />
   </a>
 </p>
 
@@ -26,6 +29,6 @@ Hi there! My name is Adrian Szydlo (Aqua) and I am a computer science student wh
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,linux,nginx,npm,nodejs,nextjs,obsidian,vscode,pycharm,cloudflare,docker,vitest" />
+    <img src="https://skillicons.dev/icons?i=git,linux,mint,docker,raspberrypi,nodejs,nextjs,vscode,pycharm,cloudflare,vitest,jenkins,discord,npm,pnpm" />
   </a>
 </p>
